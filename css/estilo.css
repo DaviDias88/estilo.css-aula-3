@@ -173,8 +173,7 @@ nav.superior li a {
     text-decoration: none;
 }
 nav.superior li a:hover{
-    background-color: black;
-}
+    background-color:aqua;
 
 nav.top .active{
     background-color: steelblue;
